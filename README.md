@@ -1,5 +1,5 @@
-### Olá, eu sou o Júlio Covary 👋
-### Curso ADS pela UTFPR de Cornélio Procópio 
+### Júlio Covary 👋
+### ADS pela UTFPR de Cornélio Procópio 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cezar-bandeira-covary-9ab91b28b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juliobc.png/)
@@ -15,4 +15,4 @@
     <img align="center" alt="java"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="python"src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
-Atualmente estou no 4º semestre
+Atualmente estou no 5º semestre
